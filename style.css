@@ -1,0 +1,15 @@
+.container{
+  width:400px;
+  padding:15px;
+  border:3px solid gray;
+  margin:20px;
+}
+.tag{
+  padding-bottom:10px;
+  padding-left:20px;
+}
+.btn.secondary{
+  display:flex;
+  flex-direction:row;
+justify-content:space-around;
+}
